@@ -1,0 +1,13 @@
+{
+    "education":[
+        {
+            "title": "Jun 2011 - Jun 2015",
+            "cardTitle": "B.Tech, Computer Science",
+            "cardSubtitle":"Diliman University",
+            "icon" : {
+                "src": "images/education/lorem-ipsum.png"
+            }
+        }
+        
+    ]
+}

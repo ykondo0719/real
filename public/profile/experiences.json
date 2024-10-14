@@ -1,0 +1,32 @@
+{
+    "experiences": [
+        {
+            "title": "Fullstack Developer",
+            "subtitle": "Chromedia",
+            "workType": "Full-time",
+            "workDescription": [
+                "Integrated  new product.",
+                "Developed new features and enhancements for the application using React and TypeScript"
+            ],
+            "dateText": "06/2019 – 2023"
+        },
+        {
+            "title": "Software Engineer",
+            "subtitle": "Hire plicity ",
+            "workType": "Internship",
+            "workDescription": [
+                "Implemented machine learning algorithms to improve user experience resulting in a 25% increase in engagement"
+            ],
+            "dateText": "01/2017 – 05/2019"
+        },
+        {
+            "title": "Fullstack Developer",
+            "subtitle": "Arcanys",
+            "workType": "Freelance",
+            "workDescription": [
+                "Debugged and resolved application issues to improve user experience."
+            ],
+            "dateText": "09/2015 – 01/2019"
+        }
+    ]
+}
